@@ -1,0 +1,38 @@
+.heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    width: 98%;
+    height: 120px;
+}
+
+body {
+    font-family: 'Concert One', cursive;
+}
+
+.note {
+    font-size: 18px;
+    word-wrap: break-word;
+    text-align: justify;
+    color: black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align:center;
+    font-size: 18px;
+}
+
+canvas {
+    border: 5px solid red;
+    box-shadow: 5px 5px 5px green;
+}
+
+video {
+    border: 5px solid red;
+    box-shadow: 5px 5px 5px green;
+}
